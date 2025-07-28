@@ -36,4 +36,6 @@ A MAC address is a unique identifier assigned to a network device's hardware (li
 * It doesn’t change and is set by the device manufacturer.
 * Works at a lower level than IP and is used inside local networks for device-to-device communication.
 
+
+
   
